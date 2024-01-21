@@ -3,6 +3,8 @@ This repository contains the code for my Mathematics BSc thesis on <ins>***The a
 
 The project involves the implementation of Gale's Top Trading Cycles (TTC) algorithm for kidney paired donation. The objective is to optimize the pairing of patients and donors from *n* incompatible pairs based on the selection and prioritization criteria established by the Spanish National Transplant Organization (ONT) in 2015 for the Spanish paired renal donation program [1]. Due to time constraints, limited information, or challenges in data acquisition, certain simplifications were made when applying the criteria.
 
+Gale’s TTC algorithm allows to achieve an assignation of the kidneys among the patients that ensures the proper utilization of the grafts, the satisfaction of the patients, and the non-manipulability of the mechanism. The project was focused in the main theoretical properties and proofs of the algorithm.
+
 The full text is available at: [Link](https://addi.ehu.es/handle/10810/49108)
 
 
