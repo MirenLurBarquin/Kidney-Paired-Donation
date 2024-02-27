@@ -7,7 +7,7 @@ Gale’s TTC algorithm allows to achieve an assignation of the kidneys among the
 
 The full text is available at: [Link](https://addi.ehu.es/handle/10810/49108)
 
-
+In this repository: 
 - **PrefMatFinal.R:** generates both the data matrix and its corresponding preference matrix.
 - **TTC_ImplementationCode.cpp:** implementation of Gale's TTC algorithm, which takes as input the matrices generated in PrefMatFinal.R.
 
